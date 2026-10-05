@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" width="320" height="220" font-family="sans-serif" font-size="13">
+<line x1="20" y1="110" x2="300" y2="110" stroke="#888" stroke-width="1.2"/><line x1="160" y1="15" x2="160" y2="205" stroke="#888" stroke-width="1.2"/><text x="302" y="106" fill="#888">x</text><text x="165" y="22" fill="#888">y</text>
+<line x1="40" y1="175" x2="280" y2="45" stroke="#2f6fdb" stroke-width="7" stroke-opacity="0.5"/>
+<line x1="40" y1="175" x2="280" y2="45" stroke="#e0642a" stroke-width="2"/>
+<text x="150" y="190" fill="#888">Line 1 and Line 2 coincide</text>
+<text x="170" y="40" fill="#888">every point is a solution</text>
+</svg>
