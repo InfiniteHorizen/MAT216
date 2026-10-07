@@ -41,6 +41,12 @@ The instructor's own lecture notes are the first priority and should be enough. 
 
 The first five lectures are the foundation; they cover only systems of linear equations, Gaussian elimination and Gauss-Jordan. Any gap here hurts until the midterm.
 
+**Topics covered so far:**
+- Systems of linear equations (Lecture 01)
+- Gaussian elimination and back substitution (Lecture 02), covering echelon form, pivot and free variables, the three row operations.
+
+**Up next:** Gauss–Jordan elimination, then more Gaussian elimination practice problems.
+
 ## Marks distribution
 
 | Component | Marks | Notes |
@@ -59,4 +65,4 @@ Advice from the instructor: do not skip the early quizzes (they are easy and the
 - **Question 1 (compulsory, 10 marks):** conceptual. True/false, yes/no, MCQ, or half-line definitions. Pulled from what is taught in lectures; the instructor flags such points in class, so note them down.
 - **Group questions:** answer 4 out of 6. Longer problems: solve, prove, find the inverse, show properties of vector space and subspace.
 
-Related: [INDEX](INDEX.md), [Formula Sheet](Formula%20Sheet.md), [Lecture 01](Lectures/2026-10-05%20Lecture%2001%20-%20Systems%20of%20Linear%20Equations.md)
+Related: [INDEX](INDEX.md), [Formula Sheet](Formula%20Sheet.md), [Lecture 01](Lectures/2026-10-05%20Lecture%2001%20-%20Systems%20of%20Linear%20Equations.md), [Lecture 02](Lectures/2026-10-07%20Lecture%2002%20-%20Gaussian%20Elimination%20and%20Back%20Substitution.md)

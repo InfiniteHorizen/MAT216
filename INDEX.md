@@ -20,5 +20,6 @@ Home of the vault. Notes are in English, written from Bangla-English lecture tra
 | # | Date | Lecture | Topics |
 |---|---|---|---|
 | 01 | 2026-10-05 | [Systems of Linear Equations](Lectures/2026-10-05%20Lecture%2001%20-%20Systems%20of%20Linear%20Equations.md) | $AX = B$, solution types, homogeneous systems, echelon form intro |
+| 02 | 2026-10-07 | [Gaussian Elimination and Back Substitution](Lectures/2026-10-07%20Lecture%2002%20-%20Gaussian%20Elimination%20and%20Back%20Substitution.md) | echelon form, pivot and free variables, row operations, back substitution |
 
-Next: echelon form, Gaussian elimination.
+Next: Gauss–Jordan elimination, then more Gaussian elimination practice problems.
