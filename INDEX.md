@@ -22,4 +22,12 @@ Home of the vault. Notes are in English, written from Bangla-English lecture tra
 | 01 | 2026-10-05 | [Systems of Linear Equations](Lectures/2026-10-05%20Lecture%2001%20-%20Systems%20of%20Linear%20Equations.md) | $AX = B$, solution types, homogeneous systems, echelon form intro |
 | 02 | 2026-10-07 | [Gaussian Elimination and Back Substitution](Lectures/2026-10-07%20Lecture%2002%20-%20Gaussian%20Elimination%20and%20Back%20Substitution.md) | echelon form, pivot and free variables, row operations, back substitution |
 
+## Teacher materials and practice
+
+| Material | Use |
+|---|---|
+| [[Gaussian Elimination - Teacher Materials]] | Original PDFs, page guide, and source clarifications |
+| [[Gaussian Elimination - Worked Examples and Practice]] | Two worked examples and three exercises with foldable solutions |
+| [[Elementary Matrices and Inverses - Supplement]] | Handout extension; class coverage unconfirmed |
+
 Next: Gauss–Jordan elimination, then more Gaussian elimination practice problems.

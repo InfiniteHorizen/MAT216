@@ -300,6 +300,15 @@ $$
 - The row $0 = 5$ **cannot be dropped**. It is part of the system and it is impossible.
 - Always finish with a conclusion sentence: *"The above system is inconsistent, so we will get no solution for the system."*
 
+## Teacher materials and clarifications
+
+- [[Gaussian Elimination - Teacher Materials|Instructor PDFs and page guide]]
+- [[Gaussian Elimination - Worked Examples and Practice|Two worked examples and three practice questions]]
+- [[Elementary Matrices and Inverses - Supplement|Elementary matrices and inverses — supplementary reading]]
+
+> [!note] Reading the handout alongside these notes
+> A pivot in row echelon form may be any nonzero value; making it 1 is a useful normalisation. Echelon form means pivots step to the right, zeros lie below each pivot, and all-zero rows are at the bottom. A contradictory augmented row can still occur in echelon form and signals no solution. Always check consistency first; only a consistent system with free variables has infinitely many solutions. Upper triangular form describes the square example here; the general goal is row echelon form, including rectangular systems.
+
 ## Next class
 
 More practice problems, then **Gauss–Jordan elimination**. Course materials go up on Google Classroom.
