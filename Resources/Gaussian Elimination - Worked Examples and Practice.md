@@ -101,7 +101,7 @@ Source: [[Practice Problems of Gaussian Elimination.pdf#page=1|Instructor practi
 
 ### Problem 1
 
-- [ ] Solve without viewing the answer.
+- [x] Solve without viewing the answer.
 
 $$
 \begin{aligned}
