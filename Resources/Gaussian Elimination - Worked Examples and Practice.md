@@ -157,8 +157,29 @@ $$
 > $$
 > \left[\begin{array}{cccc|c}1&2&-1&0&2\\0&1&1&-2&-3\\0&0&1&-1&-2\\0&0&0&1&3\end{array}\right].
 > $$
-> Back substitute: $x_4=3$, $x_3=-2+3=1$, $x_2=-3-1+6=2$, $x_1=2-4+1=-1$.
-> **Conclusion:** a unique solution. Substitution gives $(-3,2,-2,-19)$ in the original equation order.
+> Read the rows as equations and solve from the bottom up:
+> $$
+> \begin{aligned}
+> x_4&=3\\
+> x_3-x_4=-2&\quad\Rightarrow\quad x_3=-2+3=1\\
+> x_2+x_3-2x_4=-3&\quad\Rightarrow\quad x_2=-3-1+6=2\\
+> x_1+2x_2-x_3=2&\quad\Rightarrow\quad x_1=2-4+1=-1.
+> \end{aligned}
+> $$
+> **Conclusion:** the unique solution is
+> $$
+> (x_1,x_2,x_3,x_4)=(-1,2,1,3).
+> $$
+> **Check in the original equations:**
+> $$
+> \begin{aligned}
+> x_2+x_3-2x_4&=2+1-6=-3\\
+> x_1+2x_2-x_3&=-1+4-1=2\\
+> 2x_1+4x_2+x_3-3x_4&=-2+8+1-9=-2\\
+> x_1-4x_2-7x_3-x_4&=-1-8-7-3=-19.
+> \end{aligned}
+> $$
+> The numbers $-3$, $2$, $-2$, and $-19$ are the original right-hand-side constants, not the values of the variables.
 
 ### Problem 3
 
