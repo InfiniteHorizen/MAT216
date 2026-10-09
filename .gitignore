@@ -3,3 +3,6 @@
 .obsidian/workspace-mobile.json
 .obsidian/cache
 .obsidian/plugins/*/data.json
+
+# Keep the copyrighted textbook local; do not upload it to GitHub.
+/attachments/Howard Anton, Chris Rorres - Elementary Linear Algebra with Applications-Wiley (2005).pdf

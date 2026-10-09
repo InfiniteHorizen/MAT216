@@ -131,7 +131,7 @@ $$
 
 ### Problem 2
 
-- [ ] Solve without viewing the answer.
+- [x] Solve without viewing the answer.
 
 $$
 \begin{aligned}
@@ -183,7 +183,7 @@ $$
 
 ### Problem 3
 
-- [ ] Solve without viewing the answer.
+- [x] Solve without viewing the answer.
 
 $$
 \begin{aligned}
