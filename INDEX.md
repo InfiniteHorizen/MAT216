@@ -32,7 +32,7 @@ Home of the vault. Notes are in English, written from Bangla-English lecture tra
 |---|---|
 | [[Gaussian Elimination - Teacher Materials]] | Original PDFs, page guide, and source clarifications |
 | [[Gaussian Elimination - Worked Examples and Practice]] | Two worked examples and three exercises with foldable solutions |
-| [[Gaussian Elimination - Anton Section 1.2 Practice]] | Textbook Exercises 7, 9, and 11, plus a back-substitution warm-up |
+| [[Gaussian Elimination - Anton Section 1.2 Practice]] | Textbook Exercises 7, 9, and 11 with full worked solutions, plus a warm-up |
 | [[Elementary Matrices and Inverses - Supplement]] | Handout extension; class coverage unconfirmed |
 
 Next: Gauss–Jordan elimination, then more Gaussian elimination practice problems.

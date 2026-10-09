@@ -66,7 +66,7 @@ These are reference locations, not a claim that the topics have already been cov
 > [!note] Fourier course coverage
 > Section 9.4 is a supplementary connection to Fourier series. It does not replace the Fourier Analysis book or the instructor's materials listed in [[Course Overview]].
 
-**Ready-to-use practice:** [[Gaussian Elimination - Anton Section 1.2 Practice]] — Gaussian elimination Exercises 7, 9, and 11 with hidden answer checks.
+**Ready-to-use practice:** [[Gaussian Elimination - Anton Section 1.2 Practice]] — Gaussian elimination Exercises 7, 9, and 11 with foldable worked solutions.
 
 ## 4. How to use the exercises
 
