@@ -26,7 +26,7 @@ Do not confuse initials: SKF is this instructor, SHH is Dr. Sharmina Hossain (an
 
 | Part | Book | Used for |
 |---|---|---|
-| Linear Algebra | Elementary Linear Algebra, Howard Anton | first five lectures |
+| Linear Algebra | [[Anton and Rorres - Elementary Linear Algebra Book Guide|Elementary Linear Algebra with Applications, Anton and Rorres]] | main math book; start with the sections matching the first five lectures |
 | Linear Algebra | Introduction to Linear Algebra, Gilbert Strang | most lectures |
 | Linear Algebra | Elementary Linear Algebra, Ron Larson | few lectures, linear transformation |
 | Fourier Analysis | Fourier Analysis, Murray R. Spiegel (Schaum's Outline) | after midterm |

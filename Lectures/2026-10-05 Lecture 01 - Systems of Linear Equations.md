@@ -227,4 +227,8 @@ The instructor said Question 1 (10 marks, compulsory) is conceptual: true/false,
 
 Echelon form definition, then **Gaussian elimination** in detail with problem solving.
 
+## Textbook reference
+
+See [[Anton and Rorres - Elementary Linear Algebra Book Guide|the main math book guide]] and [[Howard Anton, Chris Rorres - Elementary Linear Algebra with Applications-Wiley (2005).pdf#page=9|section 1.1]] for supporting explanations and extra practice.
+
 Related: [Course Overview](../Course%20Overview.md), [Formula Sheet](../Formula%20Sheet.md), [INDEX](../INDEX.md)

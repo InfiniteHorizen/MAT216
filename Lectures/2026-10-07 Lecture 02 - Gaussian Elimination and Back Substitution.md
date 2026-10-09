@@ -350,6 +350,10 @@ Page 8: Case 2, pivot and free variables, $z = t$.
 Page 9: general solution in column form, and Case 3 (inconsistent).
 ![Handwritten notes 9](../attachments/lecture-02-notes-9.png)
 
+## Textbook reference
+
+See [[Anton and Rorres - Elementary Linear Algebra Book Guide|the main math book guide]] and [[Howard Anton, Chris Rorres - Elementary Linear Algebra with Applications-Wiley (2005).pdf#page=18|section 1.2]] for supporting explanations and extra practice.
+
 ---
 
 **Related:** [Lecture 01](2026-10-05%20Lecture%2001%20-%20Systems%20of%20Linear%20Equations.md) · [INDEX](../INDEX.md) · [Formula Sheet](../Formula%20Sheet.md) · [Course Overview](../Course%20Overview.md)
